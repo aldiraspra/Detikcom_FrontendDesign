@@ -146,7 +146,7 @@ body {
   height: 100%;
   left: 50%;
   top: 50%;
-  background: url(/assets/images/Hero.jpg) center/cover no-repeat;
+  background: url(Hero.jpg) center/cover no-repeat;
   transform: translate(-50%, -50%);
 }
 
@@ -158,7 +158,7 @@ body {
   height: 276px;
   left: 123px;
   top: 283px;
-  background: url(/assets/images/logo-event\ 2.svg) center/contain no-repeat;
+  background: url(logo-event\ 2.svg) center/contain no-repeat;
 }
 
 /* Logo */
@@ -746,7 +746,7 @@ BERITA
 }
 
 .footer-top-image {
-  background-image: url("/assets/images/berita/bg-2.png"); /* Replace with the correct image path */
+  background-image: url("bg-2.png"); /* Replace with the correct image path */
   background-size: cover;
   background-position: center;
   width: 125vw;
@@ -1004,7 +1004,7 @@ BERITA
   }
 
   .navbar-toggler-icon {
-    background-image: url("/assets/images/Category.svg");
+    background-image: url("Category.svg");
     width: 50px; /* Adjust the width as needed */
     height: 50px; /* Adjust the height as needed */
     left: 10px;
@@ -1025,7 +1025,7 @@ BERITA
     height: 100%;
     left: 50%;
     top: 50%;
-    background: url(/assets/images/bg-mobile\ 1.png) center/cover no-repeat;
+    background: url(bg-mobile\ 1.png) center/cover no-repeat;
   }
 
   .logo-event {
@@ -1392,7 +1392,7 @@ BERITA
 
   /*BG FOOTER TOP*/
   .footer-top-image {
-    background-image: url("/assets/images/footer/bg-2\ \(1\).png"); /* Replace with the correct image path */
+    background-image: url("bg-2\ \(1\).png"); /* Replace with the correct image path */
     background-size: auto;
     background-position: center;
     width: 100%;
@@ -1620,7 +1620,7 @@ BERITA
   }
 
   .navbar-toggler-icon {
-    background-image: url("/assets/images/Category.svg");
+    background-image: url("Category.svg");
     width: 50px; /* Adjust the width as needed */
     height: 50px; /* Adjust the height as needed */
     left: 10px;
